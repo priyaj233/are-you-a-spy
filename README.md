@@ -4,4 +4,4 @@ This is a small project based on JavaScript in which a series of question will b
   1.The Spy has the same first letter of her First Name and Last Name.
   2.The Spy is between the Age of 20 and 30 (exclusive of 20 and 30).
   3.The Spy is at least 170 centimeters tall.
-  4.The Spy has a pet name that ends with the letter "y".<
+  4.The Spy has a pet name that ends with the letter "y".
